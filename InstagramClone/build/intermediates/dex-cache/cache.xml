@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_39e9b78cce02c404cec318c6356d53ed660326b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_c776840b1f3b6213f75c40cb8f0c948375e4f39e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_7f5a9290ba2782efc399eaeb412b10504028a4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_540a8991c6548c2a53cb2eb93288a6be2537d4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_9678b2105da47a398997fc0c9196dfe32dbb91db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7c4674a348c804777efa298360b77813eeb567ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_6819adeee392fbc4ee4dd6304e15d60ff371494e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_fc22f94874c53002ee5ae34b85ded73b93792333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_882f769b4fc6ea01979629896ac74bf9a492c0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_f495192adc4c066ebea23a3d22acd7a0fc2c0898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_99ea580fbc4defc06f03b94562ee02de5beddd35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_570a41ce8216aef052ad040cd75410a932b36ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_075f65035a3f106f0ceec559bb60a46954747941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_b234c7865274b9a30edc3cfd6e79fffb5409d7c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_5129a0f30ea431a670ec5563d998f86b101d8ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_9d3325ccf0adeae696b134943d9be5000ebd7e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_67acf7302d1d441eae400e4efb00c0a60168689c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_b37ba1f6f2c1591ce2241f18b920b228142cc140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_eb18fd20a57ad7cecf78e346106651a6a5e5224e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_9d3325ccf0adeae696b134943d9be5000ebd7e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_c4bd04c36fac4f57db04c1211bb33344e7ed692d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_a717be9ec1740d5389603c6809b107f7fc92a949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_9d611f69a1c949ce832a96faa34a79c45f883bee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_73c267edc36d3abd9ba959cbaac48eb7b322216d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_17045f0ff4f85d7aecd0def5ec3f83ddfe07a293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_a4f120d3d0ebf6da56434fc00a269a9d0131a123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_adea54ad8a96f3fe3064319adf96686dd1c83022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_5df180e5d79eaca6aa9cab46f3edfcc39e7d73d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_cc27be035a1b1049b66dcea7696a0cc207979fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_39e9b78cce02c404cec318c6356d53ed660326b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_21d093f751987f525069b35b451713687b993f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_5129a0f30ea431a670ec5563d998f86b101d8ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7c4674a348c804777efa298360b77813eeb567ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_eb18fd20a57ad7cecf78e346106651a6a5e5224e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_540a8991c6548c2a53cb2eb93288a6be2537d4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_aef21b255ec8038ef8fc15f945992ad7f0cf9104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_38bf09372473a856d6d52397021166e5fb7cfc70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_8818c7536761d1b62140519a65aa9755765ba944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_570aaf8633f8b8b289ba0490c104637eccafc377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_260d68a54e50f6c1cf07d92de81eefb27ecabef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c0f4fba06196932afdc07419ebdb9ac2b8e9e3b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4f564bca3ba392f9cf7bf741a07f38f07431eefe">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f631cc5475a107f7cd6b66da67d2bdacb00ac917/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_ebe580aa8223facf8aaa2318e896756fd1b0fed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_fc22f94874c53002ee5ae34b85ded73b93792333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_fd412616af7d9c58ea63dc406e7a692634c2848c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_0e5d75d9351fb4eb60fea892087b689d9b51656c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_cc27be035a1b1049b66dcea7696a0cc207979fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_c4bd04c36fac4f57db04c1211bb33344e7ed692d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_95c7d5b6db0546f152c8589b69b7f00e0b2258f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_5df180e5d79eaca6aa9cab46f3edfcc39e7d73d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_21d093f751987f525069b35b451713687b993f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_adea54ad8a96f3fe3064319adf96686dd1c83022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_7f5a9290ba2782efc399eaeb412b10504028a4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_adf59c20722cbcd8d0bd06d9acc14eaea7fe081c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_8818c7536761d1b62140519a65aa9755765ba944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_a07d3a7be9982b1b46c22589b658720ebaee16b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_adf59c20722cbcd8d0bd06d9acc14eaea7fe081c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_3f21d0e2a281ded72ce149645dbce287daf566d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_9d4833c527d73b705f39420b76cdbc3e4bc6a8db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_5398385d39a60f0909ac8992697dabaf6c478d31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_38bf09372473a856d6d52397021166e5fb7cfc70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_a5000013ec3e438a1422e31d19036ab9af4afbc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_3245dfda518b2086cb66601bad62d1e021ec3556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_95c7d5b6db0546f152c8589b69b7f00e0b2258f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_0e5d75d9351fb4eb60fea892087b689d9b51656c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_a03e15e0fae3e1c200715deb676eb4d486f539fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_68e5de10e8b17d7de0513107379696a7514ec4d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_260d68a54e50f6c1cf07d92de81eefb27ecabef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_9115c85893c5cc8394e84850408beee1d995b891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_71b9a19fa712e500baca6b194c1e5b3797d6214a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_570aaf8633f8b8b289ba0490c104637eccafc377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_8affcf6b2d972a1b4192a5354cd8aed38ccd787c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_71bcd82cd557152a17b284bc3612e45f25ce711c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_57a927b01ea6f787e57cb041d59fbe48d9006705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_a03e15e0fae3e1c200715deb676eb4d486f539fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_c97d20857d8ea527d755b43d157d596ad34a2058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_fd412616af7d9c58ea63dc406e7a692634c2848c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_4ce38eecc03b84ec24340afd36de8ec5025d05bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_373471c14cc5b8dc81761ec0aa4e3f008403e312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_aef21b255ec8038ef8fc15f945992ad7f0cf9104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_9d4833c527d73b705f39420b76cdbc3e4bc6a8db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_827d2d93abe108b8116b11d4bcd37094c900451a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_3245dfda518b2086cb66601bad62d1e021ec3556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c0f4fba06196932afdc07419ebdb9ac2b8e9e3b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_a07d3a7be9982b1b46c22589b658720ebaee16b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_ebe580aa8223facf8aaa2318e896756fd1b0fed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_a2691d393f9ac0bc0aa05a4b744d7e27d68ad3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_71b9a19fa712e500baca6b194c1e5b3797d6214a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_a5000013ec3e438a1422e31d19036ab9af4afbc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_9678b2105da47a398997fc0c9196dfe32dbb91db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_5398385d39a60f0909ac8992697dabaf6c478d31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_a6a10683b0c1555a06aa534686d1630e3a4d1fe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_67acf7302d1d441eae400e4efb00c0a60168689c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_882f769b4fc6ea01979629896ac74bf9a492c0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_17045f0ff4f85d7aecd0def5ec3f83ddfe07a293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_99ea580fbc4defc06f03b94562ee02de5beddd35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_6819adeee392fbc4ee4dd6304e15d60ff371494e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_3f21d0e2a281ded72ce149645dbce287daf566d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_9115c85893c5cc8394e84850408beee1d995b891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_a717be9ec1740d5389603c6809b107f7fc92a949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_71bcd82cd557152a17b284bc3612e45f25ce711c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_570a41ce8216aef052ad040cd75410a932b36ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_8affcf6b2d972a1b4192a5354cd8aed38ccd787c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_b234c7865274b9a30edc3cfd6e79fffb5409d7c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_075f65035a3f106f0ceec559bb60a46954747941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_b37ba1f6f2c1591ce2241f18b920b228142cc140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_57a927b01ea6f787e57cb041d59fbe48d9006705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_c97d20857d8ea527d755b43d157d596ad34a2058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_f495192adc4c066ebea23a3d22acd7a0fc2c0898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="008c193d8a3dd98c948e7a6d267d52b0c65407e6">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_860a849a1a252a7da85267eeaff2c7b663cb4760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_68e5de10e8b17d7de0513107379696a7514ec4d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_4ce38eecc03b84ec24340afd36de8ec5025d05bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_9d611f69a1c949ce832a96faa34a79c45f883bee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_73c267edc36d3abd9ba959cbaac48eb7b322216d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_373471c14cc5b8dc81761ec0aa4e3f008403e312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_a6a10683b0c1555a06aa534686d1630e3a4d1fe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_a4f120d3d0ebf6da56434fc00a269a9d0131a123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_827d2d93abe108b8116b11d4bcd37094c900451a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_a2691d393f9ac0bc0aa05a4b744d7e27d68ad3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_c776840b1f3b6213f75c40cb8f0c948375e4f39e/classes.dex" />
+    </item>
+
+</items>

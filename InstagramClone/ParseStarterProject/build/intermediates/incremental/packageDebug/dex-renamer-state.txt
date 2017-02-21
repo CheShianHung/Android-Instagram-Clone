@@ -1,0 +1,7 @@
+#Tue Feb 21 14:28:58 EST 2017
+base.0=/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f631cc5475a107f7cd6b66da67d2bdacb00ac917
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_860a849a1a252a7da85267eeaff2c7b663cb4760/classes.dex
+base.1=/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_860a849a1a252a7da85267eeaff2c7b663cb4760
+file.0=/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f631cc5475a107f7cd6b66da67d2bdacb00ac917/classes.dex
