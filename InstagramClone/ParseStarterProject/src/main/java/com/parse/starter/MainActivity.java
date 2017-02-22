@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity implements View.OnKeyListene
         relativeLayout.setOnClickListener(this);
         titleImage.setOnClickListener(this);
 
-//        ParseUser.logOut();
+        ParseUser.logOut();
 
         if(ParseUser.getCurrentUser() != null) {
             afterLogin();
