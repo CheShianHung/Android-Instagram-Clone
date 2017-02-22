@@ -84,14 +84,6 @@
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/img_fjords.jpg",
-        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/src/main/res/drawable/img_fjords.jpg"
-    },
-    {
-        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/hike.jpg",
-        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/src/main/res/drawable/hike.jpg"
-    },
-    {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
     },
@@ -110,10 +102,6 @@
     {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
-    },
-    {
-        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/pokeball.png",
-        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/src/main/res/drawable/pokeball.png"
     },
     {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
@@ -158,10 +146,6 @@
     {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable/cast_ic_notification_forward10.xml"
-    },
-    {
-        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/pikachu.png",
-        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/src/main/res/drawable/pikachu.png"
     },
     {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",

@@ -129,12 +129,14 @@ public class MainActivity extends AppCompatActivity implements View.OnKeyListene
 
         loginMode = true;
         alertText.setText("");
+        username.setText("");
+        password.setText("");
 
         password.setOnKeyListener(this);
         relativeLayout.setOnClickListener(this);
         titleImage.setOnClickListener(this);
 
-        //ParseUser.logOut();
+//        ParseUser.logOut();
 
         if(ParseUser.getCurrentUser() != null) {
             afterLogin();
@@ -144,6 +146,8 @@ public class MainActivity extends AppCompatActivity implements View.OnKeyListene
     }
 
     private void afterLogin(){
+        username.setText("");
+        password.setText("");
         Intent intent = new Intent(this, Main2Activity.class);
         startActivity(intent);
     }

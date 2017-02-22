@@ -264,12 +264,12 @@
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_play_arrow_white_24.png",
-        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_white_24.png"
-    },
-    {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_36.png",
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_36.png"
+    },
+    {
+        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_play_arrow_white_24.png",
+        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_white_24.png"
     },
     {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_replay_30_grey600_36.png",

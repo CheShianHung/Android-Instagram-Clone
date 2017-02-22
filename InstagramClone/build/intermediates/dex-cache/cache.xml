@@ -376,7 +376,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="4f564bca3ba392f9cf7bf741a07f38f07431eefe">
+        sha1="7a92dfbc898c6ca75e3c5d3d1210e8a471bde781">
         <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f631cc5475a107f7cd6b66da67d2bdacb00ac917/classes.dex" />
     </item>
     <item
@@ -988,7 +988,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="008c193d8a3dd98c948e7a6d267d52b0c65407e6">
+        sha1="f271cb2a27423b42c89ef2484e7a90c5665cd3d1">
         <dex dex="/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_860a849a1a252a7da85267eeaff2c7b663cb4760/classes.dex" />
     </item>
     <item

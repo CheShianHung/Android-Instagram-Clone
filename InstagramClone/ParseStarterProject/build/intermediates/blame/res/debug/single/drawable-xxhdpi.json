@@ -40,12 +40,12 @@
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_light.png"
     },
     {
-        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cast_on_1_light.png",
-        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_on_1_light.png"
-    },
-    {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_media_route_on_2_mono_dark.png",
         "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cast_on_1_light.png",
+        "source": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-xxhdpi/ic_cast_on_1_light.png"
     },
     {
         "merged": "/Users/cheshianhung/Desktop/Android/InstagramClone/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting_light.png",
